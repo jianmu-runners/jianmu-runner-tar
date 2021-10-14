@@ -1,11 +1,11 @@
 ref: pack_tar
 version: 1.0.0
 inputParameters:
-  - name: 镜像构建后执行的命令
+  - name: tar压缩解压命令
     ref: cmd
     type: STRING
     value: ''
-    description: 镜像构建后执行的命令
+    description: tar压缩解压命令
 spec:
   image: alpine:3.13.6
   entrypoint:

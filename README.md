@@ -5,7 +5,7 @@
 
 #### 输入参数
 ```
-JIANMU_CMD: 构建镜像后执行的命令
+JIANMU_CMD: tar压缩解压命令
 ```
 
 #### 构建docker镜像

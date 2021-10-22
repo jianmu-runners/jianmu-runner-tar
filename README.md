@@ -18,7 +18,6 @@ docker push jianmudev/jianmu-runner-tar:${version}
 ```
 
 #### 用法
-创建镜像
 ```
 docker run --rm \
   -e JIANMU_CMD=xxx \
